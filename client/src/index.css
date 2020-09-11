@@ -15,7 +15,7 @@ code {
 }
 
 body{
-  background: rgb(63,9,63);
+  background: rgb(31, 9, 73);
 }
 .notes-page{
   width: 100%;
@@ -54,7 +54,7 @@ a{
 }
 .notes-page section{
   width: 100%;
-  box-shadow: 0 0 5px rgb(7,25,63);
+  box-shadow: 0 0 5px rgb(255, 255, 255);
   padding: 20px 0;
 }
 .note-wrapper{
@@ -66,7 +66,7 @@ a{
 }
 .card{
   width: 300px;
-  box-shadow: 0 0 5px rgb(7,25,63);
+  box-shadow: 0 0 5px rgb(255, 255, 255);
   background: rgb(7,25,63);
   padding: 10px;
   position: relative;
@@ -178,7 +178,7 @@ a{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: rgb(63,9,63);
+  background: rgb(31, 9, 73);
 }
 .login-page h2,
 .login-page h3{
